@@ -1,0 +1,14 @@
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\bin\Debug\JogandoDado.exe
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\bin\Debug\JogandoDado.exe.config
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.frmJogo.resources
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.Properties.Resources.resources
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.csproj.GenerateResource.cache
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.csproj.CoreCompileInputs.cache
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.exe
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.pdb
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\bin\Debug\JogandoDado.pdb
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.csprojAssemblyReference.cache
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\bin\Debug\JogandoDado.exe.manifest
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\bin\Debug\JogandoDado.application
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.exe.manifest
+C:\Users\Ademar\Documents\Projetos C#\repos\JogandoDado\obj\Debug\JogandoDado.application
